@@ -49,7 +49,7 @@ Contributions are welcome! If you have suggestions for improvements, additional 
 
 For any questions, suggestions, or feedback, feel free to reach out:
 
-- **Aditya Pathak** 👤
+- **Nimish Kawathekar** 👤
 - **Email**: nimishkawathekar@gmail.com 📧
 - **GitHub**: [nimish3145](https://github.com/nimish3145) 🐙
 - **LinkedIn**: [nimish3145](https://www.linkedin.com/in/nimish3145/) 🔗
